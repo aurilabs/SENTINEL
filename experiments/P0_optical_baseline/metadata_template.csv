@@ -1,0 +1,4 @@
+filename,condition,replicate,phone,iso,exposure,white_balance,distance_mm,illumination,notes
+baseline_01.jpg,baseline,1,,,,,,,
+baseline_02.jpg,baseline,2,,,,,,,
+baseline_03.jpg,baseline,3,,,,,,,
